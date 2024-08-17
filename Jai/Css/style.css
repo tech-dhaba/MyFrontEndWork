@@ -1,0 +1,96 @@
+#btn{
+    background-color: orange;
+    color: rgb(250, 214, 120);
+}
+    #btn:hover{
+     background-color: #243300;
+     color: #fff;
+    }
+    h3{
+        font-size: 64px;
+        font-weight: 500px;;
+        text-transform: uppercase;
+        color:#897853;
+        text-shadow: 2px 2px 5px;
+        font-variant: small-caps;
+        font-family: "urbanist",sans-serif;
+
+    }
+    .a{
+        color: darkgreen;
+    }
+    body{
+        width: 100%;
+        height: 100vh;
+        background-color: #004b0100;
+    }
+    .jai78{
+        margin-left:217px;
+        margin-top: 170px;
+        background-image: url("./56.png");
+        height: 480px;
+        width: 100%;
+        background-repeat: no-repeat;    
+        display: grid;
+        place-items: center;
+        text-align: center;
+        padding: 0px;
+        background-attachment: fixed;
+    }
+    .jai73{
+        background-image: url("./785.png");
+        margin-left:217px;
+        margin-top: 170px;
+        height: 480px;
+        width: 100%;
+        background-repeat: no-repeat;
+        display: grid;
+        place-items: center;
+        text-align: center;
+        padding: 0px;
+        background-attachment: fixed;
+    }
+    #height7853{
+        background-image: url("./7875.png");
+        height: 78;
+       width: 180;
+    }
+    #yi{
+        width: 500px;
+        height: 500px;
+        background-color:#897853;
+        
+        border-radius: 50% ;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+       padding: 70px 87px 58px 37px;
+       border-color: #897853;
+    }
+    #join{
+        background-image: linear-gradient( to bottom left ,#fff , #000000 );
+    }
+    #m{
+        word-spacing: right;
+      
+
+    }
+     #yy{
+        background-image: radial-gradient(#a6a6a6);
+     }
+
+     
+     #io{
+         height: 190px;
+         width: 190px; ;
+        background-color:   #ff5733;
+        border-radius: 50%;
+      
+        /*? box style */
+        box-shadow: 0 0 78px 178px  #ffc300 ;
+        
+     }
+ 
+       
+    

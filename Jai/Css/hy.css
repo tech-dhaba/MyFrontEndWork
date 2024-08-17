@@ -1,0 +1,34 @@
+/* // importing core styling file */
+@import './fontawesome/scss/fontawesome.scss';
+
+/* // our project needs Classic Solid, Brands, and Sharp Solid */
+@import './fontawesome/scss/solid.scss';
+@import './fontawesome/scss/brands.scss';
+@import './fontawesome/scss/sharp-solid.scss';
+#ghgh{
+    font-size: 37px;
+    font-weight: 0px;
+    border: 5px solid sienna;
+    position: relative;
+    padding: 0;
+    box-shadow: 0 0 37px 178px  #ffc300 ;
+    text-align: center;
+    font-variant-caps: all-small-caps;
+    word-spacing:1px;
+    background-image: radial-gradient(#a6a6a6);
+    background-color: goldenrod;
+
+
+
+}
+#sd{
+    background-image: url("./S.png");
+    
+}
+
+ 
+#tiy a:visited{
+    color: darkorange;
+    background-color: #ffc300;
+
+}

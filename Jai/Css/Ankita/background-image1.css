@@ -1,0 +1,32 @@
+section{
+    width:100%;
+    height:500px;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    padding:0px;
+    margin:0px;
+}
+
+
+
+.section1{
+    background-image: url("./56.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.section2{
+    background-image: url("./7g.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.section3{
+    background-color: unset khaki oldlace ivory palegoldenrod;
+}
+
+.section4{
+    background-color: yellowgreen;
+}

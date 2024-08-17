@@ -1,0 +1,17 @@
+#maxlengt{
+    background-color: black;
+    height: 100px;
+    display: flex;
+}
+#yorigh{
+    background-color: rgb(122, 122, 116);
+    height: 100%;
+    width: 50%;
+    
+}
+#yuilef{
+    background-color: rgb(178, 176, 176);
+    height: 100%;
+    width: 50%;
+
+}

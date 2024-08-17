@@ -1,0 +1,13 @@
+ #m{
+                    background-color: #897853;
+                    color:coral;
+                    border: 30px solid sandybrown ;
+    }
+    #a6a6a6,#999999,#8c8c8c, #808080, #737373 #666666
+
+    #ff5733 #ffc300
+
+        img{
+        filter: drop-shadow( 0 0 780px  #737373 ) ;
+        -webkit-filter:drop-shadow( -78px 0 780px  #737373 ) ;
+     }

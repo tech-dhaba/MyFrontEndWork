@@ -1,0 +1,23 @@
+font-variant small-caps;
+text-align ;
+text-decoration-line:;
+-moz-text-decoration-line:;
+text-decoration-color:;
+-moz-text-decoration-color:;
+text-decoration-thickness:;
+text-decoration-style:;
+-moz-text-decoration-style:;
+text-transfom:;
+letter-spacing:
+word-spacing:
+line-height:;
+text-decoration:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/atidtoYdS-o?si=KC1E5WazWE2cB_Hu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+background-image: linear-gradient(
+    to right top,
+    #fff,
+    #ccc,
+    #605A56,
+    #373331,
+    #303841,
+  );
